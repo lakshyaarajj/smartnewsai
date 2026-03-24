@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 
 // Replace with your Relay / automation webhook URL
-const WEBHOOK_URL = "https://your-webhook-url.example.com";
+const WEBHOOK_URL = "https://hook.relay.app/api/v1/playbook/cmn4ixyt80sol0rj8azmi2o40/trigger/6ph0pH1TWjhPlx9OayHo4A";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Checkbox } from "@/components/ui/checkbox";
